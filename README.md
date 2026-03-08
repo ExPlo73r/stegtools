@@ -30,7 +30,12 @@ sudo dpkg -i stegseek_0.6-1.deb
 # Para la GUI de Tkinter (si no esta disponible)
 sudo apt install python3-tk
 ```
+Luego de instalar dependencias
+se debe clonar el repo 
+```bash
+git clone https://github.com/ExPlo73r/stegtools
 
+```
 ---
 
 ## Configuracion
