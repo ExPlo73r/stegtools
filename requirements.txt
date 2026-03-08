@@ -1,0 +1,16 @@
+# Viernez13 StegTools - Dependencias Python
+#
+# Este proyecto usa exclusivamente la biblioteca estandar de Python 3.8+.
+# No se requieren paquetes externos de PyPI.
+#
+# Dependencias de sistema (herramientas externas):
+#   sudo apt install libimage-exiftool-perl  # exiftool
+#   sudo apt install binwalk                 # binwalk
+#   sudo apt install steghide                # steghide
+#   sudo apt install pngcheck                # pngcheck
+#   sudo apt install outguess                # outguess
+#   sudo gem install zsteg                   # zsteg (requiere Ruby)
+#   # stegseek: https://github.com/RickdeJager/stegseek/releases
+#
+# Para tener tkinter disponible (si no esta instalado):
+#   sudo apt install python3-tk

@@ -1,7 +1,4 @@
-# stegtools
-Compendio Herramientas de steganografia para ctfs en Consola y GUI
-Viernez13 StegTools
-<img width="1913" height="984" alt="image" src="https://github.com/user-attachments/assets/c6235902-800a-496b-9952-c93fff45ebfc" />
+# Viernez13 StegTools
 
 Herramienta de analisis esteganografico multi-motor para archivos de imagen y audio.
 Combina siete herramientas del ecosistema de esteganografia en una unica interfaz
@@ -118,6 +115,7 @@ python3 gui.py
 
 La GUI incluye:
 
+- **Titulo** "Viernez13 Stegtools" en rojo
 - **Campo de archivo** con boton Examinar para seleccionar el objetivo
 - **Campo de wordlist** editable con boton Examinar
 - **Boton ANALIZAR** que lanza el analisis en segundo plano
@@ -142,7 +140,6 @@ python3 main.py /ruta/a/imagen_sospechosa.jpg -o reporte.txt -j reporte.json
 # 4. O abrir la GUI
 python3 main.py --gui
 ```
-<img width="1913" height="984" alt="image" src="https://github.com/user-attachments/assets/a1da4535-b90d-4451-97ab-6094c6891901" />
 
 ---
 
