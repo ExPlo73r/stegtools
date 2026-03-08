@@ -3,6 +3,7 @@
 Herramienta de analisis esteganografico multi-motor para archivos de imagen y audio.
 Combina siete herramientas del ecosistema de esteganografia en una unica interfaz
 CLI y GUI, organizando los resultados de forma clara y exportandolos como TXT o JSON.
+<img width="1913" height="984" alt="image" src="https://github.com/user-attachments/assets/961d181a-a578-4499-a920-dbded62fc279" />
 
 ## Herramientas externas requeridas
 
@@ -140,6 +141,7 @@ python3 main.py /ruta/a/imagen_sospechosa.jpg -o reporte.txt -j reporte.json
 # 4. O abrir la GUI
 python3 main.py --gui
 ```
+<img width="1913" height="984" alt="image" src="https://github.com/user-attachments/assets/383e52d5-c4f0-4f38-a3f9-1ab865e50c4b" />
 
 ---
 
