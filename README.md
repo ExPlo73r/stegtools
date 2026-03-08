@@ -121,7 +121,6 @@ python3 gui.py
 
 La GUI incluye:
 
-- **Titulo** "Viernez13 Stegtools" en rojo
 - **Campo de archivo** con boton Examinar para seleccionar el objetivo
 - **Campo de wordlist** editable con boton Examinar
 - **Boton ANALIZAR** que lanza el analisis en segundo plano
